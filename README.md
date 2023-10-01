@@ -1,2 +1,2 @@
 # DAA
-DATA ANALYSIS AND ALGORITHM CODES AND OUTPUTS
+in this we are going to understand different algorithms and codes. 
